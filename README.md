@@ -1,3 +1,3 @@
-Server Tools
-1. Solving cf-turnstile
-2. Unpack javascript
+server tools
+1. solving cf-turnstile
+2. unpack javascript
